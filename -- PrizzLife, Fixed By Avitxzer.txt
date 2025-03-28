@@ -1,4 +1,4 @@
---// PrizzLife, Fixed By Avitxzer
+--// PrizzLife, Fixed By Avitxzer/Maythe
 
 Execution_Runtime = tick() 
 PLadmin_Settings = { 
