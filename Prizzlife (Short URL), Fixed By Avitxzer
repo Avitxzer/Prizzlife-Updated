@@ -1,2 +1,3 @@
 --Updated By Maythe:)
+--The execution time depends on which executor you are using (7-10 seconds for meh executor)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Avitxzer/Prizzlife-Updated/refs/heads/main/--%20PrizzLife%2C%20Fixed%20By%20Avitxzer.txt'))()
